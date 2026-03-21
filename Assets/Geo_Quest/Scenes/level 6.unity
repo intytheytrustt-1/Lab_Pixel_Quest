@@ -659,7 +659,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   speed: 5
-  nextlevel: Level  5
+  nextlevel: Level  1
 --- !u!212 &880824212
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -1491,11 +1491,11 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 3539382915643457696, guid: 362245fdb6732b74987bb2c913a35842, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 10.418808
+      value: 5.39
       objectReference: {fileID: 0}
     - target: {fileID: 3539382915643457696, guid: 362245fdb6732b74987bb2c913a35842, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -1.6871043
+      value: -1.61
       objectReference: {fileID: 0}
     - target: {fileID: 3539382915643457696, guid: 362245fdb6732b74987bb2c913a35842, type: 3}
       propertyPath: m_LocalPosition.z
